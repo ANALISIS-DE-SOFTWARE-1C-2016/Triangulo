@@ -1,0 +1,5 @@
+.classpath
+.settings
+bin/
+*.jar
+!/src/ar/edu/unlam/analisisdesoftware/triangulo/Triangulo.jar
